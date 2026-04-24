@@ -1,0 +1,16 @@
+name: SnowyStoneBricks
+description: $description
+version: '$version'
+
+main: spout.plugin.snowystonebricks.SnowyStoneBricksPlugin
+bootstrapper: spout.plugin.snowystonebricks.SnowyStoneBricksPluginBootstrap
+api-version: '1.21.11'
+load: POSTWORLD
+namespaces:
+  snowy_stone_bricks: Snowy stone bricks
+
+authors:
+  - Martijn Muijsers
+contributors:
+  - Mojang
+website: https://github.com/ModernSpout/SnowyStoneBricks-plugin

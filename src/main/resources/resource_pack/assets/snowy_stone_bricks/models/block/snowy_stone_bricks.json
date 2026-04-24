@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "snowy_stone_bricks:block/snowy_stone_bricks"
+  }
+}

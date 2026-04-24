@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "snowy_stone_bricks:snowy_stone_bricks",
+  "properties": {
+    "map_color": "minecraft:snow",
+    "explosion_resistance": 6.0,
+    "destroy_time": 1.5,
+    "requires_correct_tool_for_drops": true,
+    "instrument": "minecraft:basedrum"
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:stone_brick_stairs"
+    }
+  ]
+}
