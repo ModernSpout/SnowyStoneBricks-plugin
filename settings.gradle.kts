@@ -1,1 +1,1 @@
-rootProject.name = "SnowyStoneBricks-plugin"
+rootProject.name = "SnowyStoneBricks"

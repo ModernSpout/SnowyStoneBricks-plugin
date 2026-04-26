@@ -5,7 +5,7 @@
   </h1>
 
 [![Discord](https://img.shields.io/discord/1091830813240348732?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/EduvcVmKS7)
-[![1.21.11](https://img.shields.io/badge/Latest_version-1.21.11-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/actions/workflows/build.yml)
+[![1.21.11](https://img.shields.io/badge/Latest_version-1.21.11-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases/download/1.0/SnowyStoneBricks-1.0.jar)
 
 <table>
   <tr>
@@ -41,12 +41,16 @@ Adds fully server-side snowy stone bricks, including stairs and slabs.
   </tr>
 </table>
 
+## Download
+
+* [Latest version: 1.0 (MC 1.21.11)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases/download/1.0/SnowyStoneBricks-1.0.jar)
+* Development versions: download from
+  [Actions](https://github.com/ModernSpout/SnowyStoneBricks-plugin/actions/workflows/build.yml),
+  under **Artifacts**
+* [Older releases](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases)
+
 ## Installation
 
-Download the latest JAR from
-[GitHub Actions](https://github.com/ModernSpout/SnowyStoneBricks-plugin/actions/workflows/build.yml),
-under **Artifacts**.
-
-Place the file into the `plugins` folder.
+Place the `.jar` file into the `plugins` folder.
 
 Requires [Spout](https://github.com/ModernSpout/Spout-Paper-server).

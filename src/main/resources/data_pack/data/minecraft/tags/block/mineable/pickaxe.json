@@ -1,5 +1,7 @@
 {
   "values": [
+    "snowy_stone_bricks:snowy_stone_brick_slab",
+    "snowy_stone_bricks:snowy_stone_brick_stairs",
     "snowy_stone_bricks:snowy_stone_bricks"
   ]
 }
