@@ -41,16 +41,18 @@ Adds fully server-side snowy stone bricks, including stairs and slabs.
   </tr>
 </table>
 
-## Download
+## Downloads
 
-* [Latest version: 1.0 (MC 1.21.11)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases/download/1.0/SnowyStoneBricks-1.0.jar)
-* Development versions: download from
-  [Actions](https://github.com/ModernSpout/SnowyStoneBricks-plugin/actions/workflows/build.yml),
-  under **Artifacts**
-* [Older releases](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases)
+* From [Hangar](https://hangar.papermc.io/Spout/SnowyStoneBricks)
+* Directly from GitHub:
+  * [Latest version: 1.0 (MC 1.21.11)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases/download/1.0/SnowyStoneBricks-1.0.jar)
+  * Development versions: download from
+    [Actions](https://github.com/ModernSpout/SnowyStoneBricks-plugin/actions/workflows/build.yml),
+    under **Artifacts**
+  * [Older releases](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases)
 
 ## Installation
 
 Place the `.jar` file into the `plugins` folder.
 
-Requires [Spout](https://github.com/ModernSpout/Spout-Paper-server).
+Requires [Spout](https://github.com/ModernSpout/Spout).
