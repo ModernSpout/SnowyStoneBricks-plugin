@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td>
-      <a href="design/snowy_stone_bricks_1.png"><img src="design/snowy_stone_bricks_1.png"></a>
+      <a href="design/snowy_stone_bricks_1.png"><img alt="A tower made of snowy stone bricks" src="design/snowy_stone_bricks_1.png"></a>
     </td>
     <td>
-      <a href="design/snowy_stone_bricks_2.png"><img src="design/snowy_stone_bricks_2.png"></a>
+      <a href="design/snowy_stone_bricks_2.png"><img alt="Snowy stone bricks, stairs and slabs" src="design/snowy_stone_bricks_2.png"></a>
     </td>
   </tr>
 </table>
@@ -27,16 +27,16 @@ Adds fully server-side snowy stone bricks, including stairs and slabs.
 <table>
   <tr>
     <td>
-      <a href="design/crafting_snowy_stone_bricks.png"><img src="design/crafting_snowy_stone_bricks.png"></a>
+      <a href="design/crafting_snowy_stone_bricks.png"><img alt="Crafting snowy stone bricks from stone bricks and a snowball" src="design/crafting_snowy_stone_bricks.png"></a>
     </td>
     <td>
-      <a href="design/crafting_snowy_stone_brick_stairs.png"><img src="design/crafting_snowy_stone_brick_stairs.png"></a>
+      <a href="design/crafting_snowy_stone_brick_stairs.png"><img alt="Crafting snowy stone brick stairs using a crafting table" src="design/crafting_snowy_stone_brick_stairs.png"></a>
     </td>
     <td>
-      <a href="design/crafting_snowy_stone_brick_slab.png"><img src="design/crafting_snowy_stone_brick_slab.png"></a>
+      <a href="design/crafting_snowy_stone_brick_slab.png"><img alt="Crafting snowy stone brick slabs using a crafting table" src="design/crafting_snowy_stone_brick_slab.png"></a>
     </td>
     <td>
-      <a href="design/stonecutter.png"><img src="design/stonecutter.png"></a>
+      <a href="design/stonecutter.png"><img alt="Cutting snowy stone bricks using a stonecutter" src="design/stonecutter.png"></a>
     </td>
   </tr>
 </table>
