@@ -6,8 +6,6 @@ main: spout.plugin.snowystonebricks.SnowyStoneBricksPlugin
 bootstrapper: spout.plugin.snowystonebricks.SnowyStoneBricksPluginBootstrap
 api-version: '26.1.2'
 load: POSTWORLD
-namespaces:
-  snowy_stone_bricks: Snowy stone bricks
 
 authors:
   - Martijn Muijsers

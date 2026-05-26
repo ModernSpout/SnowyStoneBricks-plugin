@@ -5,7 +5,7 @@
   </h1>
 
 [![Discord](https://img.shields.io/discord/1091830813240348732?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/EduvcVmKS7)
-[![26.1.2](https://img.shields.io/badge/Latest_version-26.1.2-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases/download/1.2/SnowyStoneBricks-1.2.jar)
+[![26.1.2](https://img.shields.io/badge/Latest_version-26.1.2-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases/download/1.3/SnowyStoneBricks-1.3.jar)
 
 <table>
   <tr>
@@ -45,7 +45,7 @@ Adds fully server-side snowy stone bricks, including stairs and slabs.
 
 * From [Hangar](https://hangar.papermc.io/Spout/SnowyStoneBricks)
 * Directly from GitHub:
-  * [Latest version: 1.2 (MC 26.1.2)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases/download/1.2/SnowyStoneBricks-1.2.jar)
+  * [Latest version: 1.3 (MC 26.1.2)](https://github.com/ModernSpout/SnowyStoneBricks-plugin/releases/download/1.3/SnowyStoneBricks-1.3.jar)
   * Development versions: download from
     [Actions](https://github.com/ModernSpout/SnowyStoneBricks-plugin/actions/workflows/build.yml),
     under **Artifacts**
